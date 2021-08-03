@@ -1,4 +1,35 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natnarben/BOG002-md-links.git"
+  },
+  "keywords": [
+    "markdown",
+    "analizador",
+    "lectura",
+    "archivos"
+  ],
+  "author": "“Nat \\ <nata.narben@gmail.com\\>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natnarben/BOG002-md-links/issues"
+  },
+  "homepage": "https://github.com/Natnarben/BOG002-md-links#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "markdown-it": "^12.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
 }
